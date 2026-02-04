@@ -109,10 +109,3 @@
   - 🛠 DevOps: Docker, CI/CD, AWS<br>
   - 🧪 Testing: JUnit, Mockito, TDD<br>
 </p>
-
-###
-
-<div align="center">
-  <!-- Contribution snake -->
-  ![Contribution Grid Snake](https://raw.githubusercontent.com/ton-profil/ton-profil/output/github-contribution-grid-snake.svg)
-</div>

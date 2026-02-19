@@ -5,13 +5,13 @@
 ---
 
 <div align="center">
-  <a href="https://linkedin.com/in/TON-LINKEDIN">
+  <a href="https://www.linkedin.com/in/lhoussaine-arssekal/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="25"/>
   </a>
-  <a href="mailto:TON-EMAIL">
+  <a href="mailto:lhoussaine.arssekal@edu.uiz.ac.ma">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="25"/>
   </a>
-  <a href="https://github.com/TON-USERNAME">
+  <a href="https://github.com/arssekal/">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="25"/>
   </a>
 </div>

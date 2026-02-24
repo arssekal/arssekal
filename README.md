@@ -69,18 +69,6 @@
 </div>
 
 ---
-
-## 🎯 Workflow & pratiques
-
-- Analyse du besoin avant le code
-- APIs REST avec Spring Boot
-- Modélisation relationnelle MySQL
-- Tests avec JUnit / Postman
-- Git & GitHub
-- Documentation officielle en priorité
-
----
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/TON-USERNAME/TON-USERNAME/output/github-contribution-grid-snake.svg"/>
 </div>

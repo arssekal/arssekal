@@ -32,6 +32,7 @@
 
 Étudiant en **développement logiciel et applicatif**, orienté **backend Java**.
 
+- Oracle Java Certified Java SE 17 
 - 🔭 Développement d’APIs REST avec **Spring Boot**
 - 🌱 Approfondissement : **Spring Boot, JPA/Hibernate, MySQL**
 - 🧩 Projets full-stack **React + Spring Boot**

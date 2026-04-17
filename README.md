@@ -60,15 +60,6 @@
 
 ---
 
-## 📈 Statistiques GitHub
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=TON-USERNAME&theme=dark" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=TON-USERNAME&show_icons=true&theme=dark" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TON-USERNAME&layout=compact&theme=dark" height="180"/>
-</div>
-
----
 <div align="center">
   <img src="https://raw.githubusercontent.com/TON-USERNAME/TON-USERNAME/output/github-contribution-grid-snake.svg"/>
 </div>
